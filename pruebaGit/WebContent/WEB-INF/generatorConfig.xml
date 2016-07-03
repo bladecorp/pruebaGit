@@ -12,5 +12,9 @@
       <property name="useActualColumnNames" value="true" />
     </table>
     
+    <table tableName="%" >
+      <property name="useActualColumnNames" value="true" />
+    </table>
+    
   </context>
 </generatorConfiguration>
