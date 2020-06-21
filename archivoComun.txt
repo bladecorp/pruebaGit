@@ -1,3 +1,5 @@
 Este es una archivo común.
 
 Serch modificó el archivo común
+
+Otro wey modificó el archivo común
